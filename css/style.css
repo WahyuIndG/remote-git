@@ -1,11 +1,9 @@
 body {
     background-color: whitesmoke;
-<<<<<<< HEAD
     font-family: fantasy;
     color: grey;
-=======
->>>>>>> content-img
     text-align: center;
+
 }
 
 .container {
@@ -28,11 +26,12 @@ footer {
     background-color: lightsalmon;
 }
 
-<<<<<<< HEAD
+
 header img {
     width: 80px;
     height: 80px;
-=======
+}
+
 .card {
     background-color: blueviolet;
     width: 220px;
@@ -44,5 +43,5 @@ header img {
 
 .clear {
     clear: both;
->>>>>>> content-card
+
 }
