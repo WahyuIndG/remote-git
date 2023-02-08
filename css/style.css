@@ -10,6 +10,7 @@ body {
 
 .container {
     background-color: white;
+    overflow: scroll;
 }
 
 header {
@@ -27,7 +28,21 @@ footer {
     background-color: lightsalmon;
 }
 
+<<<<<<< HEAD
 header img {
     width: 80px;
     height: 80px;
+=======
+.card {
+    background-color: blueviolet;
+    width: 220px;
+    height: 220px;
+    float: left;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.clear {
+    clear: both;
+>>>>>>> content-card
 }
