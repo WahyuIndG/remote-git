@@ -1,0 +1,22 @@
+body {
+    background-color: whitesmoke;
+}
+
+.container {
+    background-color: white;
+}
+
+header {
+    height: 200px;
+    background-color: aqua;
+}
+
+.content {
+    height: 500px;
+    background-color: aquamarine;
+}
+
+footer {
+    height: 100px;
+    background-color: lightsalmon;
+}
