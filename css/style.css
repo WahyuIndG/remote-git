@@ -1,7 +1,10 @@
 body {
     background-color: whitesmoke;
+<<<<<<< HEAD
     font-family: fantasy;
     color: grey;
+=======
+>>>>>>> content-img
     text-align: center;
 }
 
@@ -22,4 +25,9 @@ header {
 footer {
     height: 100px;
     background-color: lightsalmon;
+}
+
+header img {
+    width: 80px;
+    height: 80px;
 }
