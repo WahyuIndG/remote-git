@@ -4,6 +4,7 @@ body {
 
 .container {
     background-color: white;
+    overflow: scroll;
 }
 
 header {
@@ -19,4 +20,17 @@ header {
 footer {
     height: 100px;
     background-color: lightsalmon;
+}
+
+.card {
+    background-color: blueviolet;
+    width: 220px;
+    height: 220px;
+    float: left;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.clear {
+    clear: both;
 }
